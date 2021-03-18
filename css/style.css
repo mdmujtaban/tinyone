@@ -1,0 +1,38 @@
+/*fonts start*/
+font-family: 'PT Sans', sans-serif;
+/*font end*/
+/*common start*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #010101;
+}
+/*common end*/
+header{
+	background-color: #FCDB00;
+	padding: 20px 0;
+}
+.logo{
+
+}
+.menu{
+
+
+}
+.menu ul li a{
+	padding: 0 35px !important;
+	font-size: 22px;
+	font-weight: 700 ;
+	color: #010101 !important;
+	
+}
+.menu ul li a:hover{
+	color: white !important;
+
+
+}
+.menu ul li:last-child a{
+	padding-right:0 !important;
+
+}
